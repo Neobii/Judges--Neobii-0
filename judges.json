@@ -1,14 +1,14 @@
 {
-"name": "Othniel", "father": {"name": "Kenaz"},
-"name": "Ehud", "father": {"name": "Gera the Benjamite"},
-"name": "Shamgar", "father": {"name": "Anath"},
-"name": "Deborah", "father": {"name": "Jabin"},
-"name": "Gideon", "father": {name": "Joash"},
-"name": "Tola", "father": {"name": "Pauh", {"father": {"name": "Dodo"}}} 
-"name": "Jair"},
-"name": "Jephthah", "father": {"name": "Gilead"},
-"name": "Ibzan",
-"name": "Elon",
-"name": "Abdon", "father": {"name": "Hillel"},
-"name": "Samson", "father": {"name": "Manoah"}
+"name": "Othniel", "meaning": "God has helped me", "father": {"name": "Kenaz"},
+"name": "Ehud", "meaning": "He that praises", father": {"name": "Gera the Benjamite"},
+"name": "Shamgar", "meaning": "sword", "father": {"name": "Anath"},
+"name": "Deborah", "meaning": "bee", "father": {"name": "Jabin"},
+"name": "Gideon", "meaning": "great destroyer", "father": {name": "Joash"},
+"name": "Tola", "meaning": "scarlet stuff", father": {"name": "Pauh", {"father": {"name": "Dodo"}}} 
+"name": "Jair", "meaning": "he shines"},
+"name": "Jephthah", "meaning": "To open", "father": {"name": "Gilead"},
+"name": "Ibzan", "meaning", "Father of a target; father of coldness"},
+"name": "Elon", "meaning": "oak tree"},
+"name": "Abdon", "meaning": "servant", "father": {"name": "Hillel"},
+"name": "Samson", "meaning": "like the sun", "father": {"name": "Manoah"}
 }
