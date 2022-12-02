@@ -22,11 +22,17 @@ And out of the strong came something sweet.",
  What is stronger than a lion?",
 "winnings": "swords"
 },
+"holder": "Isrealites",
+"riddle": "Who will be the first to go up and fight for us against the Canaanites?"
+"answer": "Moses Isreal Isreal Moses",
+"winnings": ["Hebron", "Bethel", "Luz", "Bezek"],
+},
 {
 "holder": "Samson",
 "riddle": "If you had not plowed with my heifer, you would not have solved my riddle",
 "winnings": "Samson's Wife"
 },
+{
 "holder": "Samson",
 "riddle": "With a donkey's jawbone I have made donkeys of them. With a donkey's jawbone I have killed a thousand men",
 "answer": "4 8 8 4"
