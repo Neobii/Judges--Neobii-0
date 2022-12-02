@@ -1,0 +1,10 @@
+[{
+"left": "Ascani",
+"right": "Othniel",
+"want": "Ask Ascani's Father, Caleb, for a field."
+},
+{
+"left": "Othneil",
+"right": "Caleb",
+"want": "Field"
+}]
