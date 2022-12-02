@@ -23,9 +23,9 @@ And out of the strong came something sweet.",
 "winnings": "swords"
 },
 "holder": "Isrealites",
-"riddle": "Who will be the first to go up and fight for us against the Canaanites?"
-"answer": "Moses Isreal Isreal Moses",
-"winnings": ["Hebron", "Bethel", "Luz", "Bezek"],
+"riddle": "Who will be the first to go up and fight for us against the Canaanites?",
+"answer": ["Hebron", "Bethel", "Luz", "Bezek"],
+"winnings": "Moses Isreal Isreal Moses"
 },
 {
 "holder": "Samson",
