@@ -1,17 +1,21 @@
 [{
+"holder": "Samson",
 "riddle": "Out of the eater came something to eat,
 And out of the strong came something sweet.",
 "winnings": ["30 linen", "30 clothes"],
 }, 
 {
+"holder": "Men of the town",
 "riddle": "What is sweeter than honey?
  What is stronger than a lion?",
 "winnings": "swords"
 },
 {
+"holder": "Samson",
 "riddle": "If you had not plowed with my heifer, you would not have solved my riddle",
 "winnings": "Samson's Wife"
 },
+"holder": "Samson",
 "riddle": "With a donkey's jawbone I have made donkeys of them. With a donkey's jawbone I have killed a thousand men",
 "answer": "4 8 8 4"
 }]
