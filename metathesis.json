@@ -1,0 +1,13 @@
+{
+  "group":{
+    "name": "menOfGiliad",
+    "prompts": [{
+      "prompt": "Are you an ephramite?",
+      "response": {"gender": "he", "word": "no"}
+    },
+    {
+      "prompt": "Alright, say Shibboleth.",
+      "responseOpen": {"gender": "he", "word": "shibboleth"},
+      "responseClose": {"gender": "he", "word": "sibboleth"}
+   }]
+}
