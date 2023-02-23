@@ -1,14 +1,20 @@
-{
-"name": "Othniel", "meaning": "God has helped me", "father": {"name": "Kenaz", "meaning": "hunter"},
-"name": "Ehud", "meaning": "He that praises", "father": {"name": "Gera the Benjamite", "meaning": "grain"},
-"name": "Shamgar", "meaning": "sword", "father": {"name": "Anath", "meaning": "Answer, song, poverty"},
-"name": "Deborah", "meaning": "bee", "father": {"name": "Jabin", "meaning": "discerner"},
-"name": "Gideon", "meaning": "great destroyer", "father": {"name": "Joash", "meaning": "God has given"}, "thatIs": {"name": "Jerub-Baal", "meaning": "Baal will contend", "why": "?", "son": {"name": "Abimelech", "meaning": "My father is king"},
-"name": "Tola", "meaning": "scarlet stuff", "mother": {"name": "Pauh", "meaning": "little girl", {"father": {"name": "Dodo", "meaning": "amatory; loving"}}}, 
-"name": "Jair", "meaning": "he shines"},
-"name": "Jephthah", "meaning": "To open", "father": {"name": "Gilead", "meaning": "heap [of stones] of testimony"},
-"name": "Ibzan", "meaning": "Father of a target; father of coldness",
-"name": "Elon", "meaning": "oak tree",
-"name": "Abdon", "meaning": "servant", "father": {"name": "Hillel", "spiritual leader of a Jewish congregation; qualified to expound and apply Jewish law"},
-"name": "Samson", "meaning": "like the sun", "father": {"name": "Manoah", "meaning": "rest"}
-}
+[
+  {"name": "Othniel", "meaning": "God has helped me", "father": {"name": "Kenaz", "meaning": "hunter"}},
+  {"name": "Ehud", "meaning": "He that praises", "father": {"name": "Gera the Benjamite", "meaning": "grain"}},
+  {"name": "Shamgar", "meaning": "sword", "father": {"name": "Anath", "meaning": "Answer, song, poverty"}},
+  {"name": "Deborah", "meaning": "bee", "father": {"name": "Jabin", "meaning": "discerner"}},
+  {"name": "Gideon", "meaning": "great destroyer", "father": {"name": "Joash", "meaning": "God has given"}, "thatIs": {"name": "Jerub-Baal", "meaning": "Baal will contend", "why": "?", "son": {"name": "Abimelech", "meaning": "My father is king"}},
+  {"name": "Tola", "meaning": "scarlet stuff", "mother": {"name": "Pauh", "meaning": "little girl", {"father": {"name": "Dodo", "meaning": "amatory; loving"}}}}, 
+  {
+    "name": "Jair", 
+    "meaning": "he shines", 
+    "ledIsrealFor": "22 years", 
+    "offspring": {"sons": {"amount": "30", "mount": "donkey", "controlled": {"in": "Gilead", "amount": "30 towns", "called": "Havvoth Jair"}}}, 
+    "buriedAt": "Kamon"
+  },
+  {"name": "Jephthah", "meaning": "To open", "father": {"name": "Gilead", "meaning": "heap [of stones] of testimony"}},
+  {"name": "Ibzan", "meaning": "Father of a target; father of coldness"},
+  {"name": "Elon", "meaning": "oak tree"},
+  {"name": "Abdon", "meaning": "servant", "father": {"name": "Hillel", "spiritual leader of a Jewish congregation; qualified to expound and apply Jewish law"}},
+  {"name": "Samson", "meaning": "like the sun", "father": {"name": "Manoah", "meaning": "rest"}}
+]
