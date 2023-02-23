@@ -18,8 +18,8 @@ And out of the strong came something sweet.",
 },
 {
 "holder": "Men of the town",
-"riddle": "What is sweeter than honey?
- What is stronger than a lion?",
+"riddle": "What is sweeter than honey?",
+"What is stronger than a lion?",
 "winnings": "swords"
 },
 "holder": "Isrealites",
@@ -35,5 +35,5 @@ And out of the strong came something sweet.",
 {
 "holder": "Samson",
 "riddle": "With a donkey's jawbone I have made donkeys of them. With a donkey's jawbone I have killed a thousand men",
-"answer": "4 8 8 4"
+"answers": ["With a [ $book ]'s [ $books.$chapter ] I have made [ pural $book ] of them. With a [ $book ]'s [ $chapter ] I have [ verb ] a thousand men", "4 8 8 4"]
 }]
