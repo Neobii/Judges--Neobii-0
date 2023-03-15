@@ -13,7 +13,27 @@
     "buriedAt": "Kamon"
   },
   {"name": "Jephthah", "meaning": "To open", "father": {"name": "Gilead", "meaning": "heap [of stones] of testimony"}},
-  {"name": "Ibzan", "meaning": "Father of a target; father of coldness"},
+  {
+    "name": "Ibzan", 
+    "meaning": "Father of a target; father of coldness",
+    "translations": {
+      "english": {
+        "target": {
+          "hindi": "लक्ष्य",
+          "chinese": "目标",
+          "spanish": "el blanco",
+          "french": "cible",
+          "arabic": "هدف",
+          "german": "Ziel",
+          "bengala": "লক্ষ্য",
+          "russian": "цель",
+          "vietnamese": "mục tiêu",
+          "portugese": "alvo",
+          "indonesian": "target",
+          "urdu": "ہدف"
+        }
+      }
+  },
   {"name": "Elon", "meaning": "oak tree"},
   {"name": "Abdon", "meaning": "servant", "father": {"name": "Hillel", "spiritual leader of a Jewish congregation; qualified to expound and apply Jewish law"}},
   {"name": "Samson", "meaning": "like the sun", "father": {"name": "Manoah", "meaning": "rest"}}
